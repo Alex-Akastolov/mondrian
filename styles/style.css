@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/backgroung-image.jpeg);
+    font-size: 30px;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td {
+    border: 3px solid;
+    background-color: gray;
+    width: 70px;
+    height: 70px;
+}
+
+.w140p {
+    width: 140px;
+}
+
+.h140p {
+    height: 140px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
